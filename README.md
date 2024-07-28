@@ -19,4 +19,4 @@ Use the command `npx hardhat run scripts/deploy.ts` to execute the deployment sc
 
 By running this script, you will deploy the Verifier contract and verify the proof against the circuit, ensuring the correctness of your implementation.
 
-You can also use the command `npx hardhat run scripts/deploy.ts --network mumbai` to execute the deployment on polygon chain using polygon mumbai network.
+You can also use the command `npx hardhat run scripts/deploy.ts --network amoy` to execute the deployment on polygon chain using polygon amoy network.
